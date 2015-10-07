@@ -10,4 +10,4 @@
 > do, let us concentrate rather on explaining to human beings what we want a
 > computer to do.
 
--- Donald E. Knuth, _Literate Programming_
+-- Donald E. Knuth, [_Literate Programming_](http://www.literateprogramming.com/knuthweb.pdf)
