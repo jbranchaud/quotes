@@ -11,3 +11,8 @@
 > computer to do.
 
 -- Donald E. Knuth, [_Literate Programming_](http://www.literateprogramming.com/knuthweb.pdf)
+
+> The best programs are written so that computing machines can perform them
+> quickly and so that human beings can understand them clearly.
+
+-- Donald E. Knuth, [_Selected Papers on Computer Science_](http://www-cs-faculty.stanford.edu/~uno/cs.html)
