@@ -1,5 +1,10 @@
 # quotes
 
+> It is better to have 100 functions operate on one data abstraction than 10
+> functions on 10 data structures.
+
+-- Rich Hickey, quoted in _The Joy Of Clojure_, Ch. 5
+
 > Let us change our traditional attitude to the construction of programs:
 > Instead of imagining that our main task is to instruct a computer what to
 > do, let us concentrate rather on explaining to human beings what we want a
