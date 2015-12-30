@@ -1,5 +1,13 @@
 # quotes
 
+> But what you learn, as you get older, is that there are a few billion
+> other people in the world all trying to be clever at the same time, and
+> whatever you do with your life will certainly be lost—swallowed up in the
+> ocean—unless you are doing it along with like-minded people who will
+> remember your contributions and carry them forward.
+
+-- Neal Stephenson, [_The Diamond Age_](https://en.wikipedia.org/wiki/The_Diamond_Age)
+
 > It is better to have 100 functions operate on one data abstraction than 10
 > functions on 10 data structures.
 
