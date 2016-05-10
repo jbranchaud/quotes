@@ -1,5 +1,14 @@
 # quotes
 
+> For any way of thought to become dominant, a conceptual apparatus has to
+> be advanced that appeals to our intuitions and instincts, to our values
+> and our desires, as well as to the possibilities inherent in the social
+> world we inhabit. If successful, this conceptual apparatus becomes so
+> embedded in common sense as to be taken for granted and not open to
+> question.
+
+-- David Harvey, [_A Brief History of Neoliberalism_](http://www.amazon.com/Brief-History-Neoliberalism-David-Harvey/dp/0199283273)
+
 > But what you learn, as you get older, is that there are a few billion
 > other people in the world all trying to be clever at the same time, and
 > whatever you do with your life will certainly be lost—swallowed up in the
